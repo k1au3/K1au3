@@ -34,7 +34,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies.
   
 
-- ⚡ Weird fact: I am yet to watch 'Stranger Things'.  
+- ⚡ Weird fact: I am yet to watch a single episode of 'Stranger Things'.  
   
 
 - 🔭You are here because you have something that we can do together.
