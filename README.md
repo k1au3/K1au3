@@ -25,25 +25,25 @@
 </div>  
   
 
-### <div align="center">I am Brian, a full stack web developer with 4+ years of experience</div>  
+### <div align="center">I am Brian, a frontend web developer </div>  
   
 
-- 🌱 I’m currently learning python and the django web framework.
+- 🌱 I’m currently learning javascript libraries.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.
   
 
-- ⚡ Weird fact: I am yet to watch 'Game Of Thrones'.  
+- ⚡ Weird fact: I am yet to watch 'Stranger Things'.  
   
 
 - 🔭You are here because you have something that we can do together.
   
   
-- 🤔I know a thing or two about web3 and the blockchain technology to make converstion
+- 🤔I know a thing or two about web3 and the blockchain technology to make conversation
 
 
-- I code on a linux machine.
+
   
 
 
