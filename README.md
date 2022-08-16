@@ -25,10 +25,10 @@
 </div>  
   
 
-### <div align="center">I am Brian, a frontend web developer </div>  
+### <div align="center">I am Brian, a fullstack developer </div>  
   
 
-- 🌱 I’m currently learning javascript libraries.
+- 🌱 I’m currently learning javascript libraries, next.js.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.
