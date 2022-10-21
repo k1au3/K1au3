@@ -42,11 +42,9 @@
   
 - 🤔I know a thing or two about web3 and the blockchain technology to make conversation
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&theme=radical)
 
 
-  
-
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
 
 
