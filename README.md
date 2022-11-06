@@ -25,7 +25,7 @@
 </div>  
   
 
-### <div align="center">I am Brian, a fullstack developer </div>  
+### <div align="center">I am Brian, a Front-end developer </div>  
   
 
 - 🌱 I’m currently learning javascript libraries, next.js.
