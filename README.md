@@ -46,8 +46,6 @@
 
 
 
-[//]: <> ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
-
 
 <div display="inline-flex" width="80%" justify-content="space-between">
    
@@ -57,7 +55,8 @@
 
 ![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
-<img width="560px" src="https://wakatime.com/share/@k1au3/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
+<img width="560px" src="https://wakatime.com/badge/user/28a4ef47-d7c8-4e1d-9dff-7dcc55c47180.svg" />
+
 
 - 
 What's more?
