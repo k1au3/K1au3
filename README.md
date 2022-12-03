@@ -1,4 +1,6 @@
 #### Quick glance:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=k1au3&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+
 
 <div>
 <a href='#'><img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white style="margin-bottom: 5px;" /> </a>
@@ -44,14 +46,18 @@
 
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
+[//]: <> ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true&border_color=001F1E&text_color=09d672&icon_color=00C2C2&title_color=00F1E9&custom_title=My%20Stats)
 
 
+<div display="inline-flex" width="80%" justify-content="space-between">
+   
+<img width="380px" margin="50px" src="https://github-readme-stats.vercel.app/api?username=k1au3&show_icons=true&hide_border=false&border_color=2fa4e7&count_private=true&theme=github_dark"/>
+<img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=k1au3&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
+</div>
 
-
-
-
-  
+![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
+<img width="560px" src="https://wakatime.com/share/@k1au3/f70971dd-8e37-4d4f-b89f-f0210992d8df.png" />
 
 - 
 What's more?
