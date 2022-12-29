@@ -1,5 +1,5 @@
 #### Quick glance:
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=k1au3&label=Profile%20views&color=2fa4e7&style=flat" alt="" /> </p>
+
 
 
 <div>
@@ -36,7 +36,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies.
   
 
-- ⚡ Weird fact: I am yet to watch a single episode of 'Stranger Things'.  
+- ⚡ Weird fact: I am yet to watch a single episode of 'Game of Thrones'.  
   
 
 - 🔭You are here because you have something that we can do together.
