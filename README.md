@@ -68,7 +68,7 @@ What's more?
 - 
         In my spare time i like to read books, prefferably thriller. 
         quite fascinated by metaphysics,
-        the space time continuum and such. Sunsets too 
+        the space time continuum and such. 
   
 
 <br/>  
