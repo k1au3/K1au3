@@ -1,36 +1,9 @@
 #### Quick glance:
 
-
-
-<div>
-<a href='#'><img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Express.js-404D59?style=for-the-badge style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white style="margin-bottom: 5px;" /> </a>
-<a href='#'><img src=https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white style="margin-bottom: 5px;" /> </a>
-</div>
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I am Brian, a Front-end developer </div>  
   
 
-- 🌱 I’m currently learning javascript libraries, next.js.
+- 🌱 I’m currently learning Typescript.
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies.
@@ -53,7 +26,7 @@
 <img width="380px" src="https://github-readme-streak-stats.herokuapp.com/?user=k1au3&show_icons=true&count_private=true&include_all_commits=true&hide_border=false&locale=en&layout=compact&theme=github-dark"/>
 </div>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=k1au3&bg_color=000000&color=2fa4e7&line=2fa4e7&point=none&area=true&area_color=2fa4e7&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/k1au3/github-statistics/master/generated/languages.svg#gh-dark-mode-only)
 
