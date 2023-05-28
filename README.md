@@ -33,7 +33,7 @@ What's more?
 <br/>  
 
 
-## My Skill Set  
+<!-- ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -92,7 +92,7 @@ What's more?
 
 <br/>  
 
-
+ -->
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/k1au3" target="_blank">
