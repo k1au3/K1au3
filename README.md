@@ -3,7 +3,7 @@
 ### <div align="center">I am Brian,<br> a Front-end Engineer </div>  
   
 
-- 🌱 I’m currently learning React, Next and Node.
+- 🌱 I’m currently learning Express, Node and MongoDB.
   
 
 - ❓ Ask me about anything related to Javascript stack and related technologies.
