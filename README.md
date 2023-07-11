@@ -1,6 +1,6 @@
 #### Quick glance:
 
-### <div align="center">I am Brian,<br> a Front-end Engineer </div>  
+### <div align="center">I am Brian,<br> a Front-end Developer </div>  
   
 
 - 🌱 I’m currently learning Express, Node and MongoDB.
