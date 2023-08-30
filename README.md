@@ -4,7 +4,7 @@
 ### 💻 Software Engineer 💻
 ### 🚨 Open to new roles. 
     
-  Reach me @briablim002@gmail.com
+  Reach me @brianlim002@gmail.com
 
  💖 JavaScript, React, Typescript, Express/Node💖
 
