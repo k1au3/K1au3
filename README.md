@@ -6,7 +6,7 @@
     
   Reach me @brianlim002@gmail.com
 
- 💖 JavaScript, React, Typescript, Express/Node💖
+   JavaScript, React, Typescript, Express/Node
 
  🚒 Sometimes, Code requires some fire fighting🚒
 
