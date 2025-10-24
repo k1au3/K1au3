@@ -1,7 +1,7 @@
 <!-- A github profile info -->
 # Hi there, I'm Brian 👋
 
-### 💻 Software Engineer 💻
+### 💻 Product Engineer 💻
 ### 🚨 Open to new roles. 
     
   Reach me @brianlim002@gmail.com
