@@ -2,11 +2,10 @@
 # Hi there, I'm Brian 👋
 
 ### 💻 Product Engineer 💻
-### 🚨 Open to new roles. 
     
   Reach me @brianlim002@gmail.com
 
-   JavaScript, React, Typescript, Express/Node
+   JavaScript; React, Nuxt, Node, Scala
 
  🚒 Sometimes, Code requires some fire fighting🚒
 
